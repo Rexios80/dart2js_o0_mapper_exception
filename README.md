@@ -1,5 +1,10 @@
 Minimal sample to reproduce an issue with closure usage in `dart_mappable` running in code compiled with `dart compile js -O0`
 
+## Prerequisites
+
+- Dart
+- NodeJS
+
 ## Broken
 
 To see the code not working, run the following command:
